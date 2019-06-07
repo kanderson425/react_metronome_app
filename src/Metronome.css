@@ -22,6 +22,8 @@
     font-size: 15px;
     margin: 2px 5px;
     outline: none;
+    font-size: bold;
+    text-decoration: underline;
 }
 .start {
     background: #c94d46;
@@ -29,8 +31,9 @@
     border: 1px solid #832420;
     border-radius: 2px;
     width: 100px;
-    color: #fff;
+    color: white;
     font-size: 18px;
     margin-top: 10px;
     outline: none;
+    font-weight: bold;
 }
