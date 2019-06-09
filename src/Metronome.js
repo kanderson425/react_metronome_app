@@ -73,8 +73,9 @@ class Metronome extends Component {
     const { playing, bpm } = this.state;
 
     return (
-
+      
       <div className="metronome">
+        <h1>React Metronome</h1>
         <div className="bpm-slider">
           <div>{bpm} BPM</div>
           <input 
