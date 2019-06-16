@@ -4,6 +4,7 @@
     margin: 20% auto;
     padding: 30px;
     border: solid black 2px;
+    border-radius: 30px;
     background-color: peachpuff;
 }
 
@@ -16,7 +17,7 @@
     background: #c94d46;
     padding: 10px;
     border: 1px solid #832420;
-    border-radius: 2px;
+    border-radius: 10px;
     width: 80px;
     color: black;
     font-size: 15px;
@@ -29,7 +30,7 @@
     background: #c94d46;
     padding: 10px;
     border: 1px solid #832420;
-    border-radius: 2px;
+    border-radius: 10px;
     width: 100px;
     color: white;
     font-size: 18px;
