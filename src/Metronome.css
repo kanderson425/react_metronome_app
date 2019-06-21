@@ -1,6 +1,7 @@
 .metronome {
     text-align: center;
     max-width: 375px;
+    max-height: 400px;
     margin: 20% auto;
     padding: 30px;
     border: solid black 2px;
