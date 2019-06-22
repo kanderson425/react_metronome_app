@@ -28,7 +28,7 @@
     font-size: 15px;
     margin: 2px 5px;
     outline: none;
-    font-size: bold;
+    font-weight: bold;
     text-decoration: underline;
 }
 .start {
@@ -37,7 +37,7 @@
     border: 1px solid #832420;
     border-radius: 10px;
     width: 100px;
-    color: black;
+    color: white;
     font-size: 18px;
     margin-top: 10px;
     outline: none;
