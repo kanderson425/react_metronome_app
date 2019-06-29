@@ -1,12 +1,15 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import Metronome from './Metronome';
+import Metronome2 from './Metronome2';
 // import registerServiceWorker from './registerServiceWorker';
 import './index.css';
 
 import * as serviceWorker from './serviceWorker';
 
-ReactDOM.render(<Metronome />, document.getElementById('root'));
+ReactDOM.render(
+
+<Metronome />,document.getElementById('root'));
 
 // If you want your app to work offline and load faster, you can change
 // unregister() to register() below. Note this comes with some pitfalls.
